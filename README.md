@@ -15,7 +15,7 @@ In those years, we collectively taught hundreds of people how to solder,
 and in the process, they also made a customizable badge.
 
 ### Programming Notes
-The fivebyfive badge is based on the Atmel ATTiny85, an 8-pin microcontroller with 8k of code space
-and 512 bytes of RAM.
+The fivebyfive badge is based on the Atmel ATtiny85, an 8-pin microcontroller with 8k bytes of code space
+and just 512 bytes of RAM.
 
 (see Makefile for programming instructions)
