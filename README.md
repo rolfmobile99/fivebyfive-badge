@@ -1,3 +1,5 @@
+!(5x5-badge-with-cord-crop.jpg)
+
 ## FiveByFive Badge - a 5x5 LED badge
 
 ### Brief History
